@@ -84,7 +84,7 @@ On choisi de réaliser le montage précédant sur une breadboard. L'entrée Jack
 
 ![](auda.png)
 
-La vidéo suivante montre le système en fonctionnement. 
+La vidéo suivante montre le système en fonctionnement: (voir version HTML) 
 
 
 
