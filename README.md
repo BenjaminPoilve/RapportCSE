@@ -76,7 +76,7 @@ On choisi d'utiliser:
 
 ###Schema
 
-![](Schéma CSE final.png)
+![](Schema CSE final.png)
 
 
 ##Realisation
