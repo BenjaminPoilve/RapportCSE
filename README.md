@@ -68,7 +68,7 @@ L'idée general du montage est d'utiliser les deux canaux droites et gauche d'un
 On choisi d'utiliser:
 
 * Un moteur Nema 14 200 pas/rev
-* Des AO Texas instrument 
+* Des AO Texas instrument TL2374
 
 	Cet AO à l'interet d'avoir une unique alimentation 5v, ce qui permet à notre montage de fonctionner sur une alimentation classique
 	
@@ -76,7 +76,7 @@ On choisi d'utiliser:
 
 ###Schema
 
-![](Schéma CSE final.pdf)
+![](Schéma CSE final.png)
 
 
 ##Realisation
@@ -85,7 +85,10 @@ On choisi de réaliser le montage précédant sur une breadboard. L'entrée Jack
 ![](auda.png)
 
 La vidéo suivante montre le système en fonctionnement. 
-<embed type="video/quicktime" src="CSE video.m4v" width="420" height="240">
+
+
+
+<embed type="video/mp4" src="CSE video.m4v" width="420" height="240">
 
 
 Malheureusement, les 3 drivers dont nous disposions ont brulé en raison d'une alimentation fautive (ou peut d'etre d'une erreur à regler le potentiomètre de limitation de courant, qui sait).
