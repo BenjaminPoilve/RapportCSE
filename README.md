@@ -76,9 +76,7 @@ On choisi d'utiliser:
 
 ###Schema
 
-######Calculs
-
-######Schema
+![](Schéma CSE final.pdf)
 
 
 ##Realisation
@@ -87,6 +85,8 @@ On choisi de réaliser le montage précédant sur une breadboard. L'entrée Jack
 ![](auda.png)
 
 La vidéo suivante montre le système en fonctionnement. 
+<embed type="video/quicktime" src="CSE video.m4v" width="420" height="240">
+
 
 Malheureusement, les 3 drivers dont nous disposions ont brulé en raison d'une alimentation fautive (ou peut d'etre d'une erreur à regler le potentiomètre de limitation de courant, qui sait).
 
